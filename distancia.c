@@ -9,6 +9,9 @@
 // main 
   int main(){
 	  
+	  // definição das variaveis
+	  int x1,y1,x2,y2;
+	  float distancia;
 	  
 	  
   
